@@ -1,0 +1,37 @@
+body {
+	font-family: sans-serif;
+	background-color: dimgrey;
+	color: #F2F2F2;
+	text-align: center;
+}
+
+#nav {
+	transition: 0.5s;
+	border-top: 1px solid dimgrey;
+	border-bottom: 1px solid dimgrey;
+	padding: 30px;
+}
+
+h1 {
+	font-variant: small-caps;
+	letter-spacing: 2px;
+}
+
+#nav:hover {
+	border-top: 1px solid #F2F2F2;
+	border-bottom: 1px solid #F2F2F2;
+}
+
+
+#nav a {
+	text-decoration: none;
+	margin: 10px 20px;
+	color: #F2F2F2;
+	border-bottom: 1px solid dimgrey;
+	transition: 0.5s;
+	padding: 2px 20px;
+}
+
+#nav a:hover {	
+	border-bottom: 1px solid #F2F2F2;
+}
