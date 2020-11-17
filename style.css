@@ -15,6 +15,7 @@ body {
 h1 {
 	font-variant: small-caps;
 	letter-spacing: 2px;
+	font-size: 50px;
 }
 
 #nav:hover {
